@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Ciao Umani,
+Oggi a Milano il tempo è bello. Sole di primavera.
